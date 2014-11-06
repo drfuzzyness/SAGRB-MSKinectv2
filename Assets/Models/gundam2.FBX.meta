@@ -1,0 +1,1501 @@
+fileFormatVersion: 2
+guid: 2a3c3281fdc86844e94a22dfa955abd7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: back shin
+    100002: back shin01
+    100004: back shin02
+    100006: back shin03
+    100008: back01
+    100010: back03
+    100012: back04
+    100014: ball joint
+    100016: ball joint clone
+    100018: ball joint clone01
+    100020: ball joint01
+    100022: Bone01
+    100024: Bone02
+    100026: Bone03
+    100028: Bone04
+    100030: Bone05
+    100032: Bone06
+    100034: Bone07
+    100036: Bone08
+    100038: Bone09
+    100040: Bone10
+    100042: Bone11
+    100044: Bone12
+    100046: Bone13
+    100048: Bone14
+    100050: Bone15
+    100052: Bone16
+    100054: Bone18
+    100056: Bone19
+    100058: Bone20
+    100060: Bone21
+    100062: Bone22
+    100064: Bone23
+    100066: Bone24
+    100068: Bone25
+    100070: Bone26
+    100072: Bone27
+    100074: Bone28
+    100076: Bone29
+    100078: Bone30
+    100080: Bone31
+    100082: Bone32
+    100084: Bone33
+    100086: Bone34
+    100088: Box01
+    100090: Box02
+    100092: Box03
+    100094: Box04
+    100096: Box05
+    100098: Box07
+    100100: Box08
+    100102: Box09
+    100104: Box10
+    100106: Box11
+    100108: Box13
+    100110: Box14
+    100112: Box15
+    100114: Box18
+    100116: Box19
+    100118: Box20
+    100120: Box23
+    100122: Box33
+    100124: Box34
+    100126: Box35
+    100128: Box36
+    100130: Box38
+    100132: Box40
+    100134: Box41
+    100136: Box42
+    100138: Box51
+    100140: Box52
+    100142: Box53
+    100144: Box62
+    100146: Box63
+    100148: Box73
+    100150: Box74
+    100152: Box76
+    100154: Box77
+    100156: Box86
+    100158: Box87
+    100160: Box88
+    100162: Box89
+    100164: Box90
+    100166: Box91
+    100168: Box92
+    100170: Box93
+    100172: Box94
+    100174: Box95
+    100176: Cylinder01
+    100178: Cylinder02
+    100180: Cylinder03
+    100182: Cylinder04
+    100184: Cylinder05
+    100186: Cylinder06
+    100188: Cylinder07
+    100190: Cylinder09
+    100192: Cylinder10
+    100194: Cylinder100
+    100196: Cylinder103
+    100198: Cylinder106
+    100200: Cylinder107
+    100202: Cylinder11
+    100204: Cylinder110
+    100206: Cylinder113
+    100208: Cylinder118
+    100210: Cylinder119
+    100212: Cylinder12
+    100214: Cylinder122
+    100216: Cylinder125
+    100218: Cylinder126
+    100220: Cylinder127
+    100222: Cylinder128
+    100224: Cylinder129
+    100226: Cylinder130
+    100228: Cylinder131
+    100230: Cylinder132
+    100232: Cylinder133
+    100234: Cylinder134
+    100236: Cylinder135
+    100238: Cylinder136
+    100240: Cylinder137
+    100242: Cylinder138
+    100244: Cylinder139
+    100246: Cylinder14
+    100248: Cylinder140
+    100250: Cylinder141
+    100252: Cylinder142
+    100254: Cylinder143
+    100256: Cylinder144
+    100258: Cylinder145
+    100260: Cylinder146
+    100262: Cylinder147
+    100264: Cylinder148
+    100266: Cylinder149
+    100268: Cylinder15
+    100270: Cylinder150
+    100272: Cylinder151
+    100274: Cylinder152
+    100276: Cylinder153
+    100278: Cylinder154
+    100280: Cylinder155
+    100282: Cylinder156
+    100284: Cylinder157
+    100286: Cylinder158
+    100288: Cylinder159
+    100290: Cylinder16
+    100292: Cylinder160
+    100294: Cylinder161
+    100296: Cylinder162
+    100298: Cylinder163
+    100300: Cylinder164
+    100302: Cylinder165
+    100304: Cylinder166
+    100306: Cylinder167
+    100308: Cylinder168
+    100310: Cylinder169
+    100312: Cylinder17
+    100314: Cylinder170
+    100316: Cylinder171
+    100318: Cylinder172
+    100320: Cylinder173
+    100322: Cylinder174
+    100324: Cylinder175
+    100326: Cylinder176
+    100328: Cylinder177
+    100330: Cylinder178
+    100332: Cylinder179
+    100334: Cylinder18
+    100336: Cylinder180
+    100338: Cylinder181
+    100340: Cylinder182
+    100342: Cylinder183
+    100344: Cylinder184
+    100346: Cylinder185
+    100348: Cylinder19
+    100350: Cylinder20
+    100352: Cylinder21
+    100354: Cylinder22
+    100356: Cylinder23
+    100358: Cylinder24
+    100360: Cylinder25
+    100362: Cylinder26
+    100364: Cylinder27
+    100366: Cylinder28
+    100368: Cylinder29
+    100370: Cylinder58
+    100372: Cylinder60
+    100374: Cylinder85
+    100376: Cylinder91
+    100378: finge07
+    100380: finge08
+    100382: finge09
+    100384: finge10
+    100386: finge15
+    100388: finge16
+    100390: finge17
+    100392: finge18
+    100394: finge19
+    100396: finge20
+    100398: finge21
+    100400: finge22
+    100402: foot inside 02
+    100404: foot inside 03
+    100406: foot inside 04
+    100408: foot inside 1
+    100410: GeoSphere01
+    100412: GeoSphere02
+    100414: GeoSphere03
+    100416: GeoSphere04
+    100418: //RootNode
+    100420: hand_R01
+    100422: hand_R02
+    100424: head
+    100426: Head R01
+    100428: IK Chain01
+    100430: IK Chain02
+    100432: IK Chain03
+    100434: IK Chain04
+    100436: IK Chain05
+    100438: IK Chain06
+    100440: IK Chain07
+    100442: IK Chain08
+    100444: IK Chain10
+    100446: IK Chain11
+    100448: IK Chain12
+    100450: IK Chain13
+    100452: joint19
+    100454: joint20
+    100456: joint21
+    100458: joint22
+    100460: joint23
+    100462: joint24
+    100464: joint25
+    100466: joint26
+    100468: joint27
+    100470: joint37
+    100472: joint38
+    100474: joint39
+    100476: joint40
+    100478: joint41
+    100480: joint42
+    100482: joint43
+    100484: joint44
+    100486: joint45
+    100488: joint46
+    100490: joint47
+    100492: joint48
+    100494: joint49
+    100496: joint50
+    100498: joint51
+    100500: joint52
+    100502: joint53
+    100504: joint54
+    100506: joint_01
+    100508: joint_03
+    100510: joint_04
+    100512: knee gears
+    100514: knee gears top
+    100516: knee gears top01
+    100518: knee gears01
+    100520: left arm lower
+    100522: left arm mid
+    100524: left arm upper
+    100526: left wrist
+    100528: leg in side lower
+    100530: leg in side lower01
+    100532: leg pistern locking pin
+    100534: leg pistern locking pin01
+    100536: master
+    100538: neck
+    100540: NGon03
+    100542: NGon04
+    100544: Object01
+    100546: Object02
+    100548: Object03
+    100550: Object04
+    100552: Point01
+    100554: Point02
+    100556: Point03
+    100558: Point04
+    100560: Point05
+    100562: Point06
+    100564: Point07
+    100566: Point08
+    100568: Point09
+    100570: Point10
+    100572: Point11
+    100574: Point12
+    100576: Point13
+    100578: Point14
+    100580: Point15
+    100582: Point16
+    100584: Point17
+    100586: Point18
+    100588: Point19
+    100590: Point20
+    100592: Point21
+    100594: Point22
+    100596: Point23
+    100598: right arm lower
+    100600: right arm mid
+    100602: right arm upper
+    100604: right shoulder
+    100606: right wrist
+    100608: shield
+    100610: shield side01
+    100612: shiels star01
+    100614: shin
+    100616: shin pistern  inner clone
+    100618: shin pistern  inner clone01
+    100620: shin pistern inner
+    100622: shin pistern inner01
+    100624: shin pistern outer
+    100626: shin pistern outer clone
+    100628: shin pistern outer clone01
+    100630: shin pistern outer01
+    100632: shin01
+    100634: Sky01
+    100636: Spot01
+    100638: Spot01.Target
+    100640: Star01
+    100642: Star02
+    100644: thiy back armor
+    100646: thiy back armor01
+    100648: thiy front armor02
+    100650: thiy front armor03
+    100652: thiy inside
+    100654: thiy inside01
+    100656: thiy lower armor
+    100658: thiy lower armor01
+    100660: 'thiy pistern inner '
+    100662: thiy pistern inner 01
+    100664: thiy pistern inner clone
+    100666: thiy pistern inner clone01
+    100668: thiy pistern outer
+    100670: thiy pistern outer clone
+    100672: thiy pistern outer clone01
+    100674: thiy pistern outer01
+    100676: thumb joint
+    100678: thumb joint01
+    100680: thumb joint02
+    100682: thumb02
+    100684: thumb04
+    100686: thumb05
+    100688: upper toursow
+    400000: back shin
+    400002: back shin01
+    400004: back shin02
+    400006: back shin03
+    400008: back01
+    400010: back03
+    400012: back04
+    400014: ball joint
+    400016: ball joint clone
+    400018: ball joint clone01
+    400020: ball joint01
+    400022: Bone01
+    400024: Bone02
+    400026: Bone03
+    400028: Bone04
+    400030: Bone05
+    400032: Bone06
+    400034: Bone07
+    400036: Bone08
+    400038: Bone09
+    400040: Bone10
+    400042: Bone11
+    400044: Bone12
+    400046: Bone13
+    400048: Bone14
+    400050: Bone15
+    400052: Bone16
+    400054: Bone18
+    400056: Bone19
+    400058: Bone20
+    400060: Bone21
+    400062: Bone22
+    400064: Bone23
+    400066: Bone24
+    400068: Bone25
+    400070: Bone26
+    400072: Bone27
+    400074: Bone28
+    400076: Bone29
+    400078: Bone30
+    400080: Bone31
+    400082: Bone32
+    400084: Bone33
+    400086: Bone34
+    400088: Box01
+    400090: Box02
+    400092: Box03
+    400094: Box04
+    400096: Box05
+    400098: Box07
+    400100: Box08
+    400102: Box09
+    400104: Box10
+    400106: Box11
+    400108: Box13
+    400110: Box14
+    400112: Box15
+    400114: Box18
+    400116: Box19
+    400118: Box20
+    400120: Box23
+    400122: Box33
+    400124: Box34
+    400126: Box35
+    400128: Box36
+    400130: Box38
+    400132: Box40
+    400134: Box41
+    400136: Box42
+    400138: Box51
+    400140: Box52
+    400142: Box53
+    400144: Box62
+    400146: Box63
+    400148: Box73
+    400150: Box74
+    400152: Box76
+    400154: Box77
+    400156: Box86
+    400158: Box87
+    400160: Box88
+    400162: Box89
+    400164: Box90
+    400166: Box91
+    400168: Box92
+    400170: Box93
+    400172: Box94
+    400174: Box95
+    400176: Cylinder01
+    400178: Cylinder02
+    400180: Cylinder03
+    400182: Cylinder04
+    400184: Cylinder05
+    400186: Cylinder06
+    400188: Cylinder07
+    400190: Cylinder09
+    400192: Cylinder10
+    400194: Cylinder100
+    400196: Cylinder103
+    400198: Cylinder106
+    400200: Cylinder107
+    400202: Cylinder11
+    400204: Cylinder110
+    400206: Cylinder113
+    400208: Cylinder118
+    400210: Cylinder119
+    400212: Cylinder12
+    400214: Cylinder122
+    400216: Cylinder125
+    400218: Cylinder126
+    400220: Cylinder127
+    400222: Cylinder128
+    400224: Cylinder129
+    400226: Cylinder130
+    400228: Cylinder131
+    400230: Cylinder132
+    400232: Cylinder133
+    400234: Cylinder134
+    400236: Cylinder135
+    400238: Cylinder136
+    400240: Cylinder137
+    400242: Cylinder138
+    400244: Cylinder139
+    400246: Cylinder14
+    400248: Cylinder140
+    400250: Cylinder141
+    400252: Cylinder142
+    400254: Cylinder143
+    400256: Cylinder144
+    400258: Cylinder145
+    400260: Cylinder146
+    400262: Cylinder147
+    400264: Cylinder148
+    400266: Cylinder149
+    400268: Cylinder15
+    400270: Cylinder150
+    400272: Cylinder151
+    400274: Cylinder152
+    400276: Cylinder153
+    400278: Cylinder154
+    400280: Cylinder155
+    400282: Cylinder156
+    400284: Cylinder157
+    400286: Cylinder158
+    400288: Cylinder159
+    400290: Cylinder16
+    400292: Cylinder160
+    400294: Cylinder161
+    400296: Cylinder162
+    400298: Cylinder163
+    400300: Cylinder164
+    400302: Cylinder165
+    400304: Cylinder166
+    400306: Cylinder167
+    400308: Cylinder168
+    400310: Cylinder169
+    400312: Cylinder17
+    400314: Cylinder170
+    400316: Cylinder171
+    400318: Cylinder172
+    400320: Cylinder173
+    400322: Cylinder174
+    400324: Cylinder175
+    400326: Cylinder176
+    400328: Cylinder177
+    400330: Cylinder178
+    400332: Cylinder179
+    400334: Cylinder18
+    400336: Cylinder180
+    400338: Cylinder181
+    400340: Cylinder182
+    400342: Cylinder183
+    400344: Cylinder184
+    400346: Cylinder185
+    400348: Cylinder19
+    400350: Cylinder20
+    400352: Cylinder21
+    400354: Cylinder22
+    400356: Cylinder23
+    400358: Cylinder24
+    400360: Cylinder25
+    400362: Cylinder26
+    400364: Cylinder27
+    400366: Cylinder28
+    400368: Cylinder29
+    400370: Cylinder58
+    400372: Cylinder60
+    400374: Cylinder85
+    400376: Cylinder91
+    400378: finge07
+    400380: finge08
+    400382: finge09
+    400384: finge10
+    400386: finge15
+    400388: finge16
+    400390: finge17
+    400392: finge18
+    400394: finge19
+    400396: finge20
+    400398: finge21
+    400400: finge22
+    400402: foot inside 02
+    400404: foot inside 03
+    400406: foot inside 04
+    400408: foot inside 1
+    400410: GeoSphere01
+    400412: GeoSphere02
+    400414: GeoSphere03
+    400416: GeoSphere04
+    400418: //RootNode
+    400420: hand_R01
+    400422: hand_R02
+    400424: head
+    400426: Head R01
+    400428: IK Chain01
+    400430: IK Chain02
+    400432: IK Chain03
+    400434: IK Chain04
+    400436: IK Chain05
+    400438: IK Chain06
+    400440: IK Chain07
+    400442: IK Chain08
+    400444: IK Chain10
+    400446: IK Chain11
+    400448: IK Chain12
+    400450: IK Chain13
+    400452: joint19
+    400454: joint20
+    400456: joint21
+    400458: joint22
+    400460: joint23
+    400462: joint24
+    400464: joint25
+    400466: joint26
+    400468: joint27
+    400470: joint37
+    400472: joint38
+    400474: joint39
+    400476: joint40
+    400478: joint41
+    400480: joint42
+    400482: joint43
+    400484: joint44
+    400486: joint45
+    400488: joint46
+    400490: joint47
+    400492: joint48
+    400494: joint49
+    400496: joint50
+    400498: joint51
+    400500: joint52
+    400502: joint53
+    400504: joint54
+    400506: joint_01
+    400508: joint_03
+    400510: joint_04
+    400512: knee gears
+    400514: knee gears top
+    400516: knee gears top01
+    400518: knee gears01
+    400520: left arm lower
+    400522: left arm mid
+    400524: left arm upper
+    400526: left wrist
+    400528: leg in side lower
+    400530: leg in side lower01
+    400532: leg pistern locking pin
+    400534: leg pistern locking pin01
+    400536: master
+    400538: neck
+    400540: NGon03
+    400542: NGon04
+    400544: Object01
+    400546: Object02
+    400548: Object03
+    400550: Object04
+    400552: Point01
+    400554: Point02
+    400556: Point03
+    400558: Point04
+    400560: Point05
+    400562: Point06
+    400564: Point07
+    400566: Point08
+    400568: Point09
+    400570: Point10
+    400572: Point11
+    400574: Point12
+    400576: Point13
+    400578: Point14
+    400580: Point15
+    400582: Point16
+    400584: Point17
+    400586: Point18
+    400588: Point19
+    400590: Point20
+    400592: Point21
+    400594: Point22
+    400596: Point23
+    400598: right arm lower
+    400600: right arm mid
+    400602: right arm upper
+    400604: right shoulder
+    400606: right wrist
+    400608: shield
+    400610: shield side01
+    400612: shiels star01
+    400614: shin
+    400616: shin pistern  inner clone
+    400618: shin pistern  inner clone01
+    400620: shin pistern inner
+    400622: shin pistern inner01
+    400624: shin pistern outer
+    400626: shin pistern outer clone
+    400628: shin pistern outer clone01
+    400630: shin pistern outer01
+    400632: shin01
+    400634: Sky01
+    400636: Spot01
+    400638: Spot01.Target
+    400640: Star01
+    400642: Star02
+    400644: thiy back armor
+    400646: thiy back armor01
+    400648: thiy front armor02
+    400650: thiy front armor03
+    400652: thiy inside
+    400654: thiy inside01
+    400656: thiy lower armor
+    400658: thiy lower armor01
+    400660: 'thiy pistern inner '
+    400662: thiy pistern inner 01
+    400664: thiy pistern inner clone
+    400666: thiy pistern inner clone01
+    400668: thiy pistern outer
+    400670: thiy pistern outer clone
+    400672: thiy pistern outer clone01
+    400674: thiy pistern outer01
+    400676: thumb joint
+    400678: thumb joint01
+    400680: thumb joint02
+    400682: thumb02
+    400684: thumb04
+    400686: thumb05
+    400688: upper toursow
+    2300000: back shin
+    2300002: back shin01
+    2300004: back shin02
+    2300006: back shin03
+    2300008: back01
+    2300010: back03
+    2300012: back04
+    2300014: ball joint
+    2300016: ball joint clone
+    2300018: ball joint clone01
+    2300020: ball joint01
+    2300022: Box03
+    2300024: Box04
+    2300026: Box08
+    2300028: Box09
+    2300030: Box10
+    2300032: Box11
+    2300034: Box13
+    2300036: Box14
+    2300038: Box15
+    2300040: Box18
+    2300042: Box19
+    2300044: Box23
+    2300046: Box34
+    2300048: Box35
+    2300050: Box36
+    2300052: Box38
+    2300054: Box41
+    2300056: Box42
+    2300058: Box51
+    2300060: Box52
+    2300062: Box53
+    2300064: Box62
+    2300066: Box63
+    2300068: Box77
+    2300070: Box86
+    2300072: Box87
+    2300074: Box88
+    2300076: Box89
+    2300078: Box90
+    2300080: Box91
+    2300082: Box92
+    2300084: Box93
+    2300086: Box95
+    2300088: Cylinder03
+    2300090: Cylinder04
+    2300092: Cylinder05
+    2300094: Cylinder06
+    2300096: Cylinder07
+    2300098: Cylinder09
+    2300100: Cylinder10
+    2300102: Cylinder100
+    2300104: Cylinder103
+    2300106: Cylinder106
+    2300108: Cylinder107
+    2300110: Cylinder11
+    2300112: Cylinder110
+    2300114: Cylinder113
+    2300116: Cylinder118
+    2300118: Cylinder119
+    2300120: Cylinder12
+    2300122: Cylinder122
+    2300124: Cylinder125
+    2300126: Cylinder126
+    2300128: Cylinder127
+    2300130: Cylinder128
+    2300132: Cylinder129
+    2300134: Cylinder130
+    2300136: Cylinder131
+    2300138: Cylinder132
+    2300140: Cylinder133
+    2300142: Cylinder134
+    2300144: Cylinder135
+    2300146: Cylinder136
+    2300148: Cylinder137
+    2300150: Cylinder138
+    2300152: Cylinder139
+    2300154: Cylinder14
+    2300156: Cylinder140
+    2300158: Cylinder141
+    2300160: Cylinder142
+    2300162: Cylinder143
+    2300164: Cylinder144
+    2300166: Cylinder145
+    2300168: Cylinder146
+    2300170: Cylinder147
+    2300172: Cylinder148
+    2300174: Cylinder149
+    2300176: Cylinder15
+    2300178: Cylinder150
+    2300180: Cylinder151
+    2300182: Cylinder152
+    2300184: Cylinder153
+    2300186: Cylinder154
+    2300188: Cylinder155
+    2300190: Cylinder156
+    2300192: Cylinder157
+    2300194: Cylinder158
+    2300196: Cylinder159
+    2300198: Cylinder16
+    2300200: Cylinder160
+    2300202: Cylinder161
+    2300204: Cylinder162
+    2300206: Cylinder163
+    2300208: Cylinder164
+    2300210: Cylinder165
+    2300212: Cylinder166
+    2300214: Cylinder167
+    2300216: Cylinder168
+    2300218: Cylinder169
+    2300220: Cylinder17
+    2300222: Cylinder170
+    2300224: Cylinder171
+    2300226: Cylinder172
+    2300228: Cylinder173
+    2300230: Cylinder174
+    2300232: Cylinder175
+    2300234: Cylinder176
+    2300236: Cylinder177
+    2300238: Cylinder178
+    2300240: Cylinder179
+    2300242: Cylinder18
+    2300244: Cylinder180
+    2300246: Cylinder181
+    2300248: Cylinder182
+    2300250: Cylinder183
+    2300252: Cylinder184
+    2300254: Cylinder185
+    2300256: Cylinder19
+    2300258: Cylinder20
+    2300260: Cylinder21
+    2300262: Cylinder22
+    2300264: Cylinder23
+    2300266: Cylinder24
+    2300268: Cylinder25
+    2300270: Cylinder26
+    2300272: Cylinder27
+    2300274: Cylinder28
+    2300276: Cylinder29
+    2300278: Cylinder58
+    2300280: Cylinder60
+    2300282: Cylinder85
+    2300284: finge07
+    2300286: finge08
+    2300288: finge09
+    2300290: finge10
+    2300292: finge15
+    2300294: finge16
+    2300296: finge17
+    2300298: finge18
+    2300300: finge19
+    2300302: finge20
+    2300304: finge21
+    2300306: finge22
+    2300308: foot inside 02
+    2300310: foot inside 03
+    2300312: foot inside 04
+    2300314: foot inside 1
+    2300316: GeoSphere01
+    2300318: GeoSphere02
+    2300320: GeoSphere03
+    2300322: GeoSphere04
+    2300324: hand_R01
+    2300326: hand_R02
+    2300328: joint19
+    2300330: joint20
+    2300332: joint21
+    2300334: joint22
+    2300336: joint23
+    2300338: joint24
+    2300340: joint25
+    2300342: joint26
+    2300344: joint27
+    2300346: joint37
+    2300348: joint38
+    2300350: joint39
+    2300352: joint40
+    2300354: joint41
+    2300356: joint42
+    2300358: joint43
+    2300360: joint44
+    2300362: joint45
+    2300364: joint46
+    2300366: joint47
+    2300368: joint48
+    2300370: joint49
+    2300372: joint50
+    2300374: joint51
+    2300376: joint52
+    2300378: joint53
+    2300380: joint54
+    2300382: joint_01
+    2300384: joint_03
+    2300386: joint_04
+    2300388: knee gears
+    2300390: knee gears top
+    2300392: knee gears top01
+    2300394: knee gears01
+    2300396: leg in side lower
+    2300398: leg in side lower01
+    2300400: leg pistern locking pin
+    2300402: leg pistern locking pin01
+    2300404: Object01
+    2300406: Object02
+    2300408: Object03
+    2300410: Object04
+    2300412: shield side01
+    2300414: shiels star01
+    2300416: shin
+    2300418: shin pistern  inner clone
+    2300420: shin pistern  inner clone01
+    2300422: shin pistern inner
+    2300424: shin pistern inner01
+    2300426: shin pistern outer
+    2300428: shin pistern outer clone
+    2300430: shin pistern outer clone01
+    2300432: shin pistern outer01
+    2300434: shin01
+    2300436: thiy back armor
+    2300438: thiy back armor01
+    2300440: thiy front armor02
+    2300442: thiy front armor03
+    2300444: thiy inside
+    2300446: thiy inside01
+    2300448: thiy lower armor
+    2300450: thiy lower armor01
+    2300452: 'thiy pistern inner '
+    2300454: thiy pistern inner 01
+    2300456: thiy pistern inner clone
+    2300458: thiy pistern inner clone01
+    2300460: thiy pistern outer
+    2300462: thiy pistern outer clone
+    2300464: thiy pistern outer clone01
+    2300466: thiy pistern outer01
+    2300468: thumb joint
+    2300470: thumb joint01
+    2300472: thumb joint02
+    2300474: thumb02
+    2300476: thumb04
+    2300478: thumb05
+    3300000: back shin
+    3300002: back shin01
+    3300004: back shin02
+    3300006: back shin03
+    3300008: back01
+    3300010: back03
+    3300012: back04
+    3300014: ball joint
+    3300016: ball joint clone
+    3300018: ball joint clone01
+    3300020: ball joint01
+    3300022: Box03
+    3300024: Box04
+    3300026: Box08
+    3300028: Box09
+    3300030: Box10
+    3300032: Box11
+    3300034: Box13
+    3300036: Box14
+    3300038: Box15
+    3300040: Box18
+    3300042: Box19
+    3300044: Box23
+    3300046: Box34
+    3300048: Box35
+    3300050: Box36
+    3300052: Box38
+    3300054: Box41
+    3300056: Box42
+    3300058: Box51
+    3300060: Box52
+    3300062: Box53
+    3300064: Box62
+    3300066: Box63
+    3300068: Box77
+    3300070: Box86
+    3300072: Box87
+    3300074: Box88
+    3300076: Box89
+    3300078: Box90
+    3300080: Box91
+    3300082: Box92
+    3300084: Box93
+    3300086: Box95
+    3300088: Cylinder03
+    3300090: Cylinder04
+    3300092: Cylinder05
+    3300094: Cylinder06
+    3300096: Cylinder07
+    3300098: Cylinder09
+    3300100: Cylinder10
+    3300102: Cylinder100
+    3300104: Cylinder103
+    3300106: Cylinder106
+    3300108: Cylinder107
+    3300110: Cylinder11
+    3300112: Cylinder110
+    3300114: Cylinder113
+    3300116: Cylinder118
+    3300118: Cylinder119
+    3300120: Cylinder12
+    3300122: Cylinder122
+    3300124: Cylinder125
+    3300126: Cylinder126
+    3300128: Cylinder127
+    3300130: Cylinder128
+    3300132: Cylinder129
+    3300134: Cylinder130
+    3300136: Cylinder131
+    3300138: Cylinder132
+    3300140: Cylinder133
+    3300142: Cylinder134
+    3300144: Cylinder135
+    3300146: Cylinder136
+    3300148: Cylinder137
+    3300150: Cylinder138
+    3300152: Cylinder139
+    3300154: Cylinder14
+    3300156: Cylinder140
+    3300158: Cylinder141
+    3300160: Cylinder142
+    3300162: Cylinder143
+    3300164: Cylinder144
+    3300166: Cylinder145
+    3300168: Cylinder146
+    3300170: Cylinder147
+    3300172: Cylinder148
+    3300174: Cylinder149
+    3300176: Cylinder15
+    3300178: Cylinder150
+    3300180: Cylinder151
+    3300182: Cylinder152
+    3300184: Cylinder153
+    3300186: Cylinder154
+    3300188: Cylinder155
+    3300190: Cylinder156
+    3300192: Cylinder157
+    3300194: Cylinder158
+    3300196: Cylinder159
+    3300198: Cylinder16
+    3300200: Cylinder160
+    3300202: Cylinder161
+    3300204: Cylinder162
+    3300206: Cylinder163
+    3300208: Cylinder164
+    3300210: Cylinder165
+    3300212: Cylinder166
+    3300214: Cylinder167
+    3300216: Cylinder168
+    3300218: Cylinder169
+    3300220: Cylinder17
+    3300222: Cylinder170
+    3300224: Cylinder171
+    3300226: Cylinder172
+    3300228: Cylinder173
+    3300230: Cylinder174
+    3300232: Cylinder175
+    3300234: Cylinder176
+    3300236: Cylinder177
+    3300238: Cylinder178
+    3300240: Cylinder179
+    3300242: Cylinder18
+    3300244: Cylinder180
+    3300246: Cylinder181
+    3300248: Cylinder182
+    3300250: Cylinder183
+    3300252: Cylinder184
+    3300254: Cylinder185
+    3300256: Cylinder19
+    3300258: Cylinder20
+    3300260: Cylinder21
+    3300262: Cylinder22
+    3300264: Cylinder23
+    3300266: Cylinder24
+    3300268: Cylinder25
+    3300270: Cylinder26
+    3300272: Cylinder27
+    3300274: Cylinder28
+    3300276: Cylinder29
+    3300278: Cylinder58
+    3300280: Cylinder60
+    3300282: Cylinder85
+    3300284: finge07
+    3300286: finge08
+    3300288: finge09
+    3300290: finge10
+    3300292: finge15
+    3300294: finge16
+    3300296: finge17
+    3300298: finge18
+    3300300: finge19
+    3300302: finge20
+    3300304: finge21
+    3300306: finge22
+    3300308: foot inside 02
+    3300310: foot inside 03
+    3300312: foot inside 04
+    3300314: foot inside 1
+    3300316: GeoSphere01
+    3300318: GeoSphere02
+    3300320: GeoSphere03
+    3300322: GeoSphere04
+    3300324: hand_R01
+    3300326: hand_R02
+    3300328: joint19
+    3300330: joint20
+    3300332: joint21
+    3300334: joint22
+    3300336: joint23
+    3300338: joint24
+    3300340: joint25
+    3300342: joint26
+    3300344: joint27
+    3300346: joint37
+    3300348: joint38
+    3300350: joint39
+    3300352: joint40
+    3300354: joint41
+    3300356: joint42
+    3300358: joint43
+    3300360: joint44
+    3300362: joint45
+    3300364: joint46
+    3300366: joint47
+    3300368: joint48
+    3300370: joint49
+    3300372: joint50
+    3300374: joint51
+    3300376: joint52
+    3300378: joint53
+    3300380: joint54
+    3300382: joint_01
+    3300384: joint_03
+    3300386: joint_04
+    3300388: knee gears
+    3300390: knee gears top
+    3300392: knee gears top01
+    3300394: knee gears01
+    3300396: leg in side lower
+    3300398: leg in side lower01
+    3300400: leg pistern locking pin
+    3300402: leg pistern locking pin01
+    3300404: Object01
+    3300406: Object02
+    3300408: Object03
+    3300410: Object04
+    3300412: shield side01
+    3300414: shiels star01
+    3300416: shin
+    3300418: shin pistern  inner clone
+    3300420: shin pistern  inner clone01
+    3300422: shin pistern inner
+    3300424: shin pistern inner01
+    3300426: shin pistern outer
+    3300428: shin pistern outer clone
+    3300430: shin pistern outer clone01
+    3300432: shin pistern outer01
+    3300434: shin01
+    3300436: thiy back armor
+    3300438: thiy back armor01
+    3300440: thiy front armor02
+    3300442: thiy front armor03
+    3300444: thiy inside
+    3300446: thiy inside01
+    3300448: thiy lower armor
+    3300450: thiy lower armor01
+    3300452: 'thiy pistern inner '
+    3300454: thiy pistern inner 01
+    3300456: thiy pistern inner clone
+    3300458: thiy pistern inner clone01
+    3300460: thiy pistern outer
+    3300462: thiy pistern outer clone
+    3300464: thiy pistern outer clone01
+    3300466: thiy pistern outer01
+    3300468: thumb joint
+    3300470: thumb joint01
+    3300472: thumb joint02
+    3300474: thumb02
+    3300476: thumb04
+    3300478: thumb05
+    4300000: Box01
+    4300002: Box02
+    4300004: Cylinder01
+    4300006: Box05
+    4300008: Box07
+    4300010: Box33
+    4300012: Box20
+    4300014: Box40
+    4300016: Cylinder02
+    4300018: Box73
+    4300020: Box74
+    4300022: Box76
+    4300024: Cylinder91
+    4300026: Head R01
+    4300028: Box94
+    4300030: Cylinder178
+    4300032: Cylinder180
+    4300034: Cylinder174
+    4300036: Cylinder176
+    4300038: hand_R01
+    4300040: finge07
+    4300042: joint23
+    4300044: joint26
+    4300046: finge08
+    4300048: joint19
+    4300050: joint24
+    4300052: finge09
+    4300054: joint21
+    4300056: joint20
+    4300058: finge10
+    4300060: joint25
+    4300062: joint_01
+    4300064: back01
+    4300066: thumb joint
+    4300068: thumb02
+    4300070: joint22
+    4300072: joint27
+    4300074: Box23
+    4300076: Cylinder181
+    4300078: Cylinder179
+    4300080: Cylinder185
+    4300082: Cylinder182
+    4300084: Cylinder177
+    4300086: Cylinder175
+    4300088: Cylinder170
+    4300090: Cylinder171
+    4300092: Cylinder183
+    4300094: Cylinder184
+    4300096: Cylinder173
+    4300098: Cylinder172
+    4300100: Box18
+    4300102: Box19
+    4300104: Box15
+    4300106: Box41
+    4300108: Box42
+    4300110: hand_R02
+    4300112: back04
+    4300114: thumb joint02
+    4300116: thumb05
+    4300118: joint53
+    4300120: joint54
+    4300122: Object01
+    4300124: finge22
+    4300126: joint52
+    4300128: joint_04
+    4300130: Object02
+    4300132: finge19
+    4300134: joint46
+    4300136: joint47
+    4300138: Object03
+    4300140: finge21
+    4300142: joint50
+    4300144: joint51
+    4300146: Object04
+    4300148: finge20
+    4300150: joint48
+    4300152: joint49
+    4300154: Cylinder158
+    4300156: Cylinder161
+    4300158: Cylinder162
+    4300160: Cylinder165
+    4300162: Cylinder85
+    4300164: Cylinder04
+    4300166: Cylinder159
+    4300168: Cylinder160
+    4300170: Cylinder163
+    4300172: Cylinder164
+    4300174: Cylinder167
+    4300176: Cylinder168
+    4300178: Cylinder14
+    4300180: Cylinder157
+    4300182: Cylinder166
+    4300184: Cylinder169
+    4300186: Box77
+    4300188: Box86
+    4300190: Box63
+    4300192: Box62
+    4300194: Cylinder05
+    4300196: Cylinder125
+    4300198: Box87
+    4300200: Box88
+    4300202: Cylinder126
+    4300204: Cylinder127
+    4300206: Cylinder128
+    4300208: Cylinder129
+    4300210: Box89
+    4300212: Box90
+    4300214: Cylinder130
+    4300216: Cylinder131
+    4300218: Cylinder132
+    4300220: Cylinder133
+    4300222: Box91
+    4300224: Box92
+    4300226: foot inside 03
+    4300228: Cylinder134
+    4300230: foot inside 04
+    4300232: Cylinder135
+    4300234: Cylinder136
+    4300236: Cylinder137
+    4300238: Cylinder138
+    4300240: Cylinder139
+    4300242: Cylinder140
+    4300244: Cylinder141
+    4300246: Cylinder142
+    4300248: shin01
+    4300250: Cylinder143
+    4300252: back shin02
+    4300254: back shin03
+    4300256: Box93
+    4300258: leg in side lower01
+    4300260: Cylinder144
+    4300262: shin pistern outer01
+    4300264: Cylinder145
+    4300266: shin pistern outer clone01
+    4300268: GeoSphere03
+    4300270: Cylinder146
+    4300272: GeoSphere04
+    4300274: Cylinder147
+    4300276: Cylinder148
+    4300278: Cylinder149
+    4300280: Cylinder150
+    4300282: Cylinder151
+    4300284: knee gears top01
+    4300286: leg pistern locking pin01
+    4300288: ball joint01
+    4300290: thiy pistern inner 01
+    4300292: ball joint clone01
+    4300294: thiy pistern inner clone01
+    4300296: knee gears01
+    4300298: Cylinder152
+    4300300: shin pistern inner01
+    4300302: Cylinder153
+    4300304: shin pistern  inner clone01
+    4300306: Cylinder154
+    4300308: thiy pistern outer01
+    4300310: Cylinder155
+    4300312: thiy pistern outer clone01
+    4300314: Cylinder156
+    4300316: thiy back armor01
+    4300318: thiy inside01
+    4300320: thiy lower armor01
+    4300322: thiy front armor03
+    4300324: Box35
+    4300326: Box51
+    4300328: Cylinder24
+    4300330: Cylinder17
+    4300332: Cylinder119
+    4300334: Cylinder19
+    4300336: Box36
+    4300338: Box52
+    4300340: Cylinder21
+    4300342: Cylinder10
+    4300344: Cylinder110
+    4300346: Cylinder12
+    4300348: Box34
+    4300350: Box53
+    4300352: foot inside 1
+    4300354: Cylinder60
+    4300356: foot inside 02
+    4300358: Cylinder29
+    4300360: Cylinder18
+    4300362: Cylinder122
+    4300364: Cylinder20
+    4300366: Cylinder118
+    4300368: Cylinder26
+    4300370: Cylinder23
+    4300372: Cylinder28
+    4300374: shin
+    4300376: Cylinder58
+    4300378: back shin
+    4300380: back shin01
+    4300382: Box38
+    4300384: leg in side lower
+    4300386: Cylinder106
+    4300388: shin pistern outer
+    4300390: Cylinder107
+    4300392: shin pistern outer clone
+    4300394: GeoSphere01
+    4300396: Cylinder09
+    4300398: GeoSphere02
+    4300400: Cylinder11
+    4300402: Cylinder22
+    4300404: Cylinder25
+    4300406: Cylinder113
+    4300408: Cylinder27
+    4300410: knee gears top
+    4300412: leg pistern locking pin
+    4300414: ball joint
+    4300416: 'thiy pistern inner '
+    4300418: ball joint clone
+    4300420: thiy pistern inner clone
+    4300422: knee gears
+    4300424: Cylinder16
+    4300426: shin pistern inner
+    4300428: Cylinder103
+    4300430: shin pistern  inner clone
+    4300432: Cylinder15
+    4300434: thiy pistern outer
+    4300436: Cylinder100
+    4300438: thiy pistern outer clone
+    4300440: Cylinder03
+    4300442: thiy back armor
+    4300444: thiy inside
+    4300446: thiy lower armor
+    4300448: thiy front armor02
+    4300450: Box08
+    4300452: Box11
+    4300454: Box14
+    4300456: Box13
+    4300458: Box09
+    4300460: Box10
+    4300462: back03
+    4300464: thumb joint01
+    4300466: thumb04
+    4300468: joint44
+    4300470: joint45
+    4300472: finge18
+    4300474: joint43
+    4300476: joint_03
+    4300478: finge17
+    4300480: joint41
+    4300482: joint42
+    4300484: finge16
+    4300486: joint39
+    4300488: joint40
+    4300490: finge15
+    4300492: joint37
+    4300494: joint38
+    4300496: Box03
+    4300498: Box04
+    4300500: Cylinder06
+    4300502: Box95
+    4300504: shield side01
+    4300506: shiels star01
+    4300508: Cylinder07
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Box01
+    13700002: Box02
+    13700004: Box05
+    13700006: Box07
+    13700008: Box20
+    13700010: Box33
+    13700012: Box40
+    13700014: Box73
+    13700016: Box74
+    13700018: Box76
+    13700020: Box94
+    13700022: Cylinder01
+    13700024: Cylinder02
+    13700026: Cylinder91
+    13700028: Head R01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
